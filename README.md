@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermagithubcs&label=Profile%20views&color=0e75b6&style=flat" alt="vermagithubcs" /> </p>
 
-- 🌱 I’m currently learning **GSAP,React.js**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/vikashverma03](https://linktr.ee/vikashverma03)
 
