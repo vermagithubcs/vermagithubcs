@@ -88,3 +88,14 @@
 [![Postman API Fundamentals](https://images.credly.com/size/220x220/images/8b6e5082-0aaf-4ab2-ae49-9ab2f3a9403d/image.png)](https://www.credly.com/badges/YOUR_BADGE_ID)
 
 ---
+
+Feel free to update the **badge URL** with your actual Postman certification, or let me know and I’ll help format it exactly.
+
+Let me know if you'd like to:
+- Add a **Projects** section  
+- Add **GitHub Contribution Graphs or Trophies**  
+- Add a **dark/light theme toggle**  
+
+--- 
+
+Want the final version as a downloadable `README.md` file?
