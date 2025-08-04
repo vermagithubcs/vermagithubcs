@@ -30,3 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vermagithubcs&show_icons=true&locale=en" alt="vermagithubcs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermagithubcs&" alt="vermagithubcs" /></p>
+
+## 🏅 Certifications
+
+[![Postman API Fundamentals](https://badgr.com/public/assertions/I3SPLCeCTzeZw97m-83VqA)
+
+---
