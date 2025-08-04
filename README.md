@@ -31,8 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermagithubcs&" alt="vermagithubcs" /></p>
 
-## 🏅 Certifications
-
 ## 🏅 Certification
 
 [![Postman API Fundamentals Student Expert](https://raw.githubusercontent.com/vermagithubcs/vermagithubcs/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert.png)](https://badgr.com/public/assertions/I3SPLCeCTzeZw97m-83VqA)
