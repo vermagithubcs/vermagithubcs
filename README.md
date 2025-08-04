@@ -33,6 +33,9 @@
 
 ## 🏅 Certifications
 
-[![Postman API Fundamentals](https://badgr.com/public/assertions/I3SPLCeCTzeZw97m-83VqA)
+## 🏅 Certification
+
+[![Postman API Fundamentals Student Expert](https://raw.githubusercontent.com/vermagithubcs/vermagithubcs/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert.png)](https://badgr.com/public/assertions/I3SPLCeCTzeZw97m-83VqA)
+
 
 ---
